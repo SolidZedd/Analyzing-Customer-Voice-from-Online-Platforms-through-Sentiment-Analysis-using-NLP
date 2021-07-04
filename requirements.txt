@@ -91,6 +91,7 @@ smmap==4.0.0
 spacy==3.0.6
 spacy-legacy==3.0.6
 srsly==2.4.1
+stopwords-1.0.0
 streamlit==0.84.0
 tenacity==7.0.0
 terminado==0.10.1
